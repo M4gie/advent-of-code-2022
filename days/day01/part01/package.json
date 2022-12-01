@@ -1,13 +1,17 @@
 {
-  "name": "day01-part02",
+  "name": "day01-part01",
   "version": "1.0.0",
   "scripts": {
     "dev": "nodemon"
   },
   "nodemonConfig": {
-    "watch": ["."],
+    "watch": [
+      "."
+    ],
     "ext": "ts,json,txt",
-    "ignore": ["nodemon.json"],
+    "ignore": [
+      "nodemon.json"
+    ],
     "exec": "ts-node --esm ./index.ts \"$(cat ../input.txt)\""
   }
 }

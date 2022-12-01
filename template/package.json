@@ -1,5 +1,5 @@
 {
-  "name": "day01-part02",
+  "name": "day0-part0",
   "version": "1.0.0",
   "scripts": {
     "dev": "nodemon"
