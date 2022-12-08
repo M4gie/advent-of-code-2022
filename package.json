@@ -17,7 +17,13 @@
     "day03-part01": "nodemon --exec \"ts-node --esm ./days/day03/part1.ts '$(cat ./days/day03/input.txt)'\"",
     "day03-part02": "nodemon --exec \"ts-node --esm ./days/day03/part2.ts '$(cat ./days/day03/input.txt)'\"",
     "day04-part01": "nodemon --exec \"ts-node --esm ./days/day04/part1.ts '$(cat ./days/day04/input.txt)'\"",
-    "day04-part02": "nodemon --exec \"ts-node --esm ./days/day04/part2.ts '$(cat ./days/day04/input.txt)'\""
+    "day04-part02": "nodemon --exec \"ts-node --esm ./days/day04/part2.ts '$(cat ./days/day04/input.txt)'\"",
+    "day05-part01": "nodemon --exec \"ts-node --esm ./days/day05/part1.ts '$(cat ./days/day05/input.txt)'\"",
+    "day05-part02": "nodemon --exec \"ts-node --esm ./days/day05/part2.ts '$(cat ./days/day05/input.txt)'\"",
+    "day06-part01": "nodemon --exec \"ts-node --esm ./days/day06/part1.ts '$(cat ./days/day06/input.txt)'\"",
+    "day06-part02": "nodemon --exec \"ts-node --esm ./days/day06/part2.ts '$(cat ./days/day06/input.txt)'\"",
+    "day07-part01": "nodemon --exec \"ts-node --esm ./days/day07/part1.ts '$(cat ./days/day07/input.txt)'\"",
+    "day07-part02": "nodemon --exec \"ts-node --esm ./days/day07/part2.ts '$(cat ./days/day07/input.txt)'\""
   },
   "dependencies": {},
   "devDependencies": {
